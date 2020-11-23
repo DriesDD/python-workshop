@@ -4,13 +4,17 @@ Let's do a quick round and ask everyone how they ended up here.
 
 **Poll Questions for the attendees:**
 
-+ Do you have a programming background?
-A: Not really but I know how to google.
-B: I know what variables, functions and loops are.
-C: I can already make working programs in another language.
-D: I can already code in Python.
++ "Do you have a programming background?"
 
-+ Do you have experience using github?
+"A: Not really but I know how to google."
+
+"B: I know what variables, functions and loops are."
+
+"C: I can already make working programs in another language."
+
+"D: I can already code in Python."
+
++ "Do you have experience using github?"
 
 ## 2. Python installation, syntax and examples. ##
 

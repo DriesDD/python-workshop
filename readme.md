@@ -38,7 +38,7 @@ There are some ideas in the folders you find in this repo.
 
 Python files end in `.py`.
 
-It can be run using `python3 example.py`.
+They can be run in the terminal / command prompt with `python3 example.py`.
 
 If you don't have an IDE (Integrated development environment, a coding application) I would recommend downloading VSCode which is free and works on every platform.
 It has many extensions, install the Python extension.

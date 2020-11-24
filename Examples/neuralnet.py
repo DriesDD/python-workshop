@@ -1,11 +1,20 @@
 """A neural network in a few lines
 
-Source:
+I recommend this only if you understand already what a neural network is.
+
+Source for this code:
 https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1
 
-Exercises
+Exercises:
 
-1. Change the colors.
+1. Read the article and try to understand what's going on this code!
+2. Try the code for a new situation and see how accurate the model is. Note: there is an issue with this code when trying to predict a new situation starting with 0.
+3. Try a more complex sample. How can we add nodes? How can we add layers?
+4. The following python modules are made for neural networks. What do they do?
+    PyAnn
+    pyrenn
+    ffnet
+    neurolab
 
 """
 

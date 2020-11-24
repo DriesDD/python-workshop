@@ -38,11 +38,15 @@ To exit, use CTRL-Z or run `exit()`.
 
 Now it's time to create a python file!
 
-There are some ideas in the example folder.
-
 Python files end in `.py`.
 
 They can be run in the terminal / command prompt with `python3 example.py`.
+
+There are some examples in the example folder, with exercises in the code comments.
+
+Many modules come preinstalled with python, but if the needed module is not installed you can install it using pip: https://helpdeskgeek.com/how-to/how-to-install-python-pip/
+
+You can also search for some popular modules and think of how they could be used: https://catswhocode.com/python-modules-list/
 
 If you don't have an IDE (Integrated development environment, a coding application) I would recommend downloading VSCode which is free and works on every platform.
 It has many extensions, install the Python extension.

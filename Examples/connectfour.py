@@ -1,13 +1,16 @@
 """Connect Four
 
+Turtle is a module that includes many functions used in games.
+Another module like this is PyGame.
+
 Exercises
 
 1. Change the colors.
 2. Draw squares instead of circles for open spaces.
 3. Add logic to detect a full row.
 4. Create a random computer player.
-5. Create a smart computer player.
 5. How would you detect a winner?
+5. AI! Create a smart computer player.
 
 """
 

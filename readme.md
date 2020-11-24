@@ -38,7 +38,7 @@ To exit, use CTRL-Z or run `exit()`.
 
 Now it's time to create a python file!
 
-There are some ideas in the folders you find in this repo.
+There are some ideas in the example folder.
 
 Python files end in `.py`.
 
@@ -47,7 +47,7 @@ They can be run in the terminal / command prompt with `python3 example.py`.
 If you don't have an IDE (Integrated development environment, a coding application) I would recommend downloading VSCode which is free and works on every platform.
 It has many extensions, install the Python extension.
 
-Choose an exercise from one of the folders or make up your own. The most important thing is to produce some unique code that is yours.
+Choose an exercise from the folder or make up your own. The most important thing is to produce some unique code that is yours.
 
 ![Kung Fury is a masterpiece of modern cinema.](https://media.giphy.com/media/LcfBYS8BKhCvK/giphy.gif)
 

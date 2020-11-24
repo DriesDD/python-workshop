@@ -30,7 +30,7 @@ https://www.python.org/downloads/
 
 Open the terminal / command prompt and run the `python3` command. You should see the version number and details. 
 
-You are now in Python's interactive mode. Try a command like `print("hello BeCode")` or a mathematical calculation. You can do everything python can do from your terminal, even using modules!
+You are now in Python's interactive mode. Try a command like `print("hello BeCode")` or `'Python goes b' + 'r'*10` or a mathematical calculation. You can do everything python can do from your terminal, even using modules!
 
 To exit, use CTRL-Z or run `exit()`.
 
